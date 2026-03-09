@@ -2,3 +2,5 @@ Humus
 berenjena
 Cebolla cocida
 Patatas cocidas
+Pipas
+Cebolla cocida
