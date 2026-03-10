@@ -2,3 +2,5 @@ patatas
 pipas
 humis
 boniato
+vino
+cerveza
